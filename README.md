@@ -104,7 +104,7 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 ---
 
 ## Setup Using Service Principal  
-📌 Follow the setup guide: [Mount ADLS.py](./setup/Mount%20ADLS.py)
+📌 Follow the setup guide: [Mount ADLS.py](./set-up/Mount%20ADLS.py)
 
 
 ![Service Principal Setup](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/resource/Set_up.png)  
