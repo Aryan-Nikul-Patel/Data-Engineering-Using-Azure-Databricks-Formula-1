@@ -103,6 +103,49 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 
 ---
 
+## Setup Using Service Principal  
+📌 *Follow the setup guide in the [Setup Folder](./setup/)*  
+
+![Service Principal Setup](path/to/service_principal_image.png)  
+
+---
+
+## Incremental Load Process  
+🔹 **Day 1 (Cutover Date)**  
+![Incremental Load - Day 1](path/to/day1_image.png)  
+
+🔹 **Day 2**  
+![Incremental Load - Day 2](path/to/day2_image.png)  
+
+🔹 **Day 3**  
+![Incremental Load - Day 3](path/to/day3_image.png)  
+
+---
+
+## Azure Data Factory (ADF) Pipelines  
+📌 **ADF Components Overview**  
+![ADF Components](path/to/adf_components.png)  
+
+📌 **Formula 1 Data Pipeline**  
+![F1 Pipeline](path/to/f1_pipeline.png)  
+
+📌 **F1 Pipeline Run Execution**  
+![F1 Pipeline Run](path/to/f1_pipeline_run.png)  
+
+---
+
+## Technologies/Tools Used  
+- Pyspark  
+- Spark SQL  
+- Delta Lake  
+- Azure Databricks  
+- Azure Data Factory  
+- Azure Data Lake Storage Gen2  
+- Azure Key Vault  
+- Power BI  
+
+---
+
 ## 📌 Getting Started
 ### Prerequisites
 - Azure subscription  
