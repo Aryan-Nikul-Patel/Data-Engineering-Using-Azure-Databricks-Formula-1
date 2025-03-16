@@ -123,7 +123,7 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 
 ---
 
-## Azure Data Factory (ADF) Pipelines  
+## Azure Data Factory (ADF) Pipeline  
 📌 **ADF Components Overview**  
 ![ADF Components](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/ADF_Pipeline_Automation/ADF%20components.png)  
 
