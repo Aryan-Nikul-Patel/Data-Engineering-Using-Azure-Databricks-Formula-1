@@ -67,10 +67,10 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 
 ## 📌 Project Requirements
 ### 1️⃣ Data Ingestion
-✅ Ingest all 8 files into **Azure Data Lake**
-✅ Apply **schema** and **audit columns**
-✅ Store data in **Delta format**
-✅ Enable **incremental loading**
+✅ Ingest all 8 files into **Azure Data Lake**  
+✅ Apply **schema** and **audit columns**  
+✅ Store data in **Delta format**  
+✅ Enable **incremental loading**  
 
 ### 2️⃣ Data Transformation
 ✅ Join tables for **reporting** & **analysis**
