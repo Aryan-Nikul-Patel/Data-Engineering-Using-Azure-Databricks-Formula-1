@@ -73,28 +73,28 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 ✅ Enable **incremental loading**  
 
 ### 2️⃣ Data Transformation
-✅ Join tables for **reporting** & **analysis**
-✅ Apply **audit columns**
-✅ Store data in **Delta format**
-✅ Handle **incremental loads**
+✅ Join tables for **reporting** & **analysis**  
+✅ Apply **audit columns**  
+✅ Store data in **Delta format**  
+✅ Handle **incremental loads**  
 
 ### 3️⃣ Data Reporting
-✅ **Driver Standings** 📊
-✅ **Constructor Standings** 🏎️
+✅ **Driver Standings** 📊  
+✅ **Constructor Standings** 🏎️  
 
 ### 4️⃣ Data Analysis
-✅ Identify **dominant drivers & teams** 🏆
-✅ Visualize **outputs in Databricks and PowerBI Dashboards** 📈
+✅ Identify **dominant drivers & teams** 🏆  
+✅ Visualize **outputs in Databricks and PowerBI Dashboards** 📈  
 
 ### 5️⃣ Scheduling
-✅ **Automated pipeline execution** every **Sunday at 10 PM** ⏳
-✅ **Monitoring & alerts** for failures 🔔
-✅ **Rerun failed pipelines** ♻️
+✅ **Automated pipeline execution** every **Sunday at 10 PM** ⏳  
+✅ **Monitoring & alerts** for failures 🔔  
+✅ **Rerun failed pipelines** ♻️  
 
 ### 6️⃣ Non-Functional Requirements
-✅ Ability to **delete individual records**
-✅ Ability to **see history and time travel** ⏪
-✅ Ability to **roll back to a previous version** 🔄
+✅ Ability to **delete individual records**  
+✅ Ability to **see history and time travel** ⏪  
+✅ Ability to **roll back to a previous version** 🔄  
 
 ---
 
@@ -105,9 +105,9 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 
 ## 📌 Getting Started
 ### Prerequisites
-- Azure subscription
-- Databricks workspace
-- Azure Data Factory
+- Azure subscription  
+- Databricks workspace  
+- Azure Data Factory  
 
 ### Setup Instructions
 1. Clone the repository:
@@ -128,5 +128,5 @@ This project leverages **Azure Databricks** to process **Formula 1 race data** e
 ---
 
 ## 🤝 Connect with Me
-🔗 [LinkedIn](https://www.linkedin.com/in/aryan-nikul-patel/)
+🔗 [LinkedIn](https://www.linkedin.com/in/aryan-nikul-patel/)  
 📧 Email: **anpnhp2002@gmail.com**
