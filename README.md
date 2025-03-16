@@ -104,33 +104,33 @@ Data is sourced from **Ergast Developer API**, covering race results from **1950
 ---
 
 ## Setup Using Service Principal  
-📌 *Follow the setup guide in the [Setup Folder](./setup/)*  
+📌 *Follow the setup guide in the [Setup Folder](set-up/Mount ADLS.py)*  
 
-![Service Principal Setup](path/to/service_principal_image.png)  
+![Service Principal Setup](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/resource/Set_up.png)  
 
 ---
 
 ## Incremental Load Process  
 🔹 **Day 1 (Cutover Date)**  
-![Incremental Load - Day 1](path/to/day1_image.png)  
+![Incremental Load - Day 1](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/resource/IL_d1.png)  
 
 🔹 **Day 2**  
-![Incremental Load - Day 2](path/to/day2_image.png)  
+![Incremental Load - Day 2](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/resource/IL_d2.png)  
 
 🔹 **Day 3**  
-![Incremental Load - Day 3](path/to/day3_image.png)  
+![Incremental Load - Day 3](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/resource/IL_d3.png)  
 
 ---
 
 ## Azure Data Factory (ADF) Pipelines  
 📌 **ADF Components Overview**  
-![ADF Components](path/to/adf_components.png)  
+![ADF Components](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/ADF_Pipeline_Automation/ADF%20components.png)  
 
 📌 **Formula 1 Data Pipeline**  
-![F1 Pipeline](path/to/f1_pipeline.png)  
+![F1 Pipeline](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/ADF_Pipeline_Automation/End_To_End_Automation.png)  
 
 📌 **F1 Pipeline Run Execution**  
-![F1 Pipeline Run](path/to/f1_pipeline_run.png)  
+![F1 Pipeline Run](https://github.com/Aryan-Nikul-Patel/Data-Engineering-Using-Azure-Databricks-Formula-1/blob/main/ADF_Pipeline_Automation/Pipeline%20Runs.png)  
 
 ---
 
