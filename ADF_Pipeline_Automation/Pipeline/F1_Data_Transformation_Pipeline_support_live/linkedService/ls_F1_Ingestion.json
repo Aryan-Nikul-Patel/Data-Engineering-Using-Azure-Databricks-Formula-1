@@ -1,0 +1,14 @@
+{
+    "name": "ls_F1_Ingestion",
+    "type": "Microsoft.DataFactory/factories/linkedservices",
+    "properties": {
+        "annotations": [],
+        "type": "AzureDatabricks",
+        "typeProperties": {
+            "domain": "https://adb-474101105193917.17.azuredatabricks.net",
+            "authentication": "MSI",
+            "workspaceResourceId": "/subscriptions/fdb79ebf-eb42-4ea7-8f4d-086fc75107e8/resourceGroups/ADCD4HP/providers/Microsoft.Databricks/workspaces/ws_az",
+            "existingClusterId": "0217-072350-7yyqj0vd"
+        }
+    }
+}

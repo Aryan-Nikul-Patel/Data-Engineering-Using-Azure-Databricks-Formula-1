@@ -1,0 +1,6 @@
+selected resource name:		F1_Data_Ingestion_Pipeline
+selected resource type:		pipeline
+factory name:			adcd4hp-F1-ADF
+factory location:		southindia
+subscription id:		fdb79ebf-eb42-4ea7-8f4d-086fc75107e8
+time of download (UTC):		Sun, 16 Mar 2025 04:57:30 GMT
